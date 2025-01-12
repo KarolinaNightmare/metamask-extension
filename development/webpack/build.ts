@@ -10,6 +10,7 @@ require('browserslist/node').getStat = noop;
 /**
  * Builds the extension
  *
+TODO : TRY building on non-win/mac machines
  * @param onComplete
  */
 export function build(onComplete: () => void = noop) {
