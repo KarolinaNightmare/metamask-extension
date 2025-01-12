@@ -2,3 +2,5 @@
 . "$(dirname -- "$0")/_/husky.sh"
 
 npm run fitness-functions -- "pre-commit-hook"
+
+#try dirname altered
